@@ -18,3 +18,4 @@ axes1.plot(y2)
 st.write(figure1)
 #st.write()為上傳網頁使用
 #在終端機輸入指令,streamlit run 檔名.py
+#ctrl+C為中止功能
