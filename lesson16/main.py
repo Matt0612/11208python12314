@@ -2,7 +2,7 @@ import csv
 import pandas as pd
 import streamlit as st
 import ffn
-
+#做到一半的版本,與fin的版本是不相同的
 def getStockNames() -> pd.Series:
     with open('codeSearch.csv',encoding='utf-8',newline='') as file:
         next(file)
